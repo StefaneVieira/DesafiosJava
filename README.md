@@ -60,9 +60,8 @@ Objetivo: Calcular o perímetro e a área de um quadrado cujo lado é informado 
 ##
 
 <h3>Recesso</h3>
-<p>Objetivo: Construir um algoritmo que leia o salário e o tempo de serviço de uma pessoa.
+<p>Objetivo: Construir um algoritmo que leia o salário e o tempo de serviço de uma pessoa.</p>
 
-• Quando esta pessoa tiver um salário menor que 950,00 etempo de casa inferior a 2 anos
-lhe será dado 7 dias de folga e um aumento de 10%;
-• Quando a pessoa ganhar mais ou igual a 950,00 e tiver tempo de casa superior a 3 anos lhe será dado 12 dias de folga e um aumento de 8%;
-• As demais pessoas só terão direito a 15 dias de folga, sem qualquer aumento.</p> 
+<p>• Quando esta pessoa tiver um salário menor que 950,00 etempo de casa inferior a 2 anos lhe será dado 7 dias de folga e um aumento de 10%;</p>
+<p>• Quando a pessoa ganhar mais ou igual a 950,00 e tiver tempo de casa superior a 3 anos lhe será dado 12 dias de folga e um aumento de 8%;</p>
+<p>• As demais pessoas só terão direito a 15 dias de folga, sem qualquer aumento.</p> 
