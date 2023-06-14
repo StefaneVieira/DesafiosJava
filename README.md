@@ -5,7 +5,7 @@ Na pasta estudos você encontra alguns códigos simples, que eu utilizei para ap
 ##
 
 <h3>Algoritmo</h3>
-<p>Objetivo: Fazer um algoritmo que leia dois valores inteiros, A e B. Se os valores forem iguais, o programa deverá somar os dois, caso contrário deverá multiplicar A por B. Faça um algoritmo que leia dois valores inteiros, A e B. Se os valores forem iguais, o programa deverá somar os dois, caso contrário deverá multiplicar A por B.</p> 
+<p>Objetivo: Fazer um algoritmo que leia dois valores inteiros, A e B. Se os valores forem iguais, o programa deverá somar os dois, caso contrário deverá multiplicar A por B. 
 
 ##
 
